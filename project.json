@@ -1,0 +1,22 @@
+{
+  "name": "phasmophobia-investigation-toolkit",
+  "displayName": "Phasmophobia Investigation Toolkit",
+  "programType": "investigation-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Investigation notes",
+    "Equipment groups",
+    "Session records"
+  ],
+  "topics": [
+    "phasmophobia-investigation-toolkit",
+    "phasmophobia-tools",
+    "phasmophobia-menu",
+    "phasmophobia-settings",
+    "phasmophobia-configs",
+    "phasmophobia-investigation-notes",
+    "phasmophobia-equipment-groups"
+  ]
+}
